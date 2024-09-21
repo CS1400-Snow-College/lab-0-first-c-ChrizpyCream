@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xxlaz\\.dotnet\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj": {}
+    "C:\\Users\\xxlaz\\.dotnet\\my-code-dir\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xxlaz\\.dotnet\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj": {
+    "C:\\Users\\xxlaz\\.dotnet\\my-code-dir\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xxlaz\\.dotnet\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj",
+        "projectUniqueName": "C:\\Users\\xxlaz\\.dotnet\\my-code-dir\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj",
         "projectName": "lab-0-first-c-ChrizpyCream",
-        "projectPath": "C:\\Users\\xxlaz\\.dotnet\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj",
+        "projectPath": "C:\\Users\\xxlaz\\.dotnet\\my-code-dir\\lab-0-first-c-ChrizpyCream\\lab-0-first-c-ChrizpyCream.csproj",
         "packagesPath": "C:\\Users\\xxlaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xxlaz\\.dotnet\\lab-0-first-c-ChrizpyCream\\obj\\",
+        "outputPath": "C:\\Users\\xxlaz\\.dotnet\\my-code-dir\\lab-0-first-c-ChrizpyCream\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xxlaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

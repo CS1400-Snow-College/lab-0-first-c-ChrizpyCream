@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-0-first-c-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db33f47899a7e00de23d73f8e5d0b96bb25f0a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5be883e3e351275006cc0928b9f1afeaf0fde4cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-0-first-c-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-0-first-c-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
